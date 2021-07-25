@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 Hope you are having a good day !
 
-<!--
-**sandhyaammasi/sandhyaammasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m a incoming graduate student at University of Houston 
+- 🔭 I’m currently working on my data science portfolio project
+- 🌱 I’m currently learning Babylon JS & UNITY game engine 
+- 👯 I’m looking to collaborate on ML/AI (data science) projects
+-
+- 💬 Ask me about ML, 2D & 3D Game Engine
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/sandhyaammasi/
+- 😄 Pronouns: She/Her
+- ⚡ Best Advice: BE KIND 
+- 💃 Go Coogs !
