@@ -1,7 +1,7 @@
 ### Hi there 👋 Hope you are having a good day !
 
 - 😄 About me : Constant learner
-- 🌱 I’m a incoming graduate student at University of Houston 
+- 🌱 I’m an incoming graduate student at University of Houston 
 - 🔭 I’m currently working on my data science portfolio project
 - 🌱 I’m currently learning Babylon JS & UNITY game engine 
 - 👯 I’m looking to collaborate on ML/AI (data science) projects
