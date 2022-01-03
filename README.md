@@ -9,4 +9,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Best Advice: BE KIND 
 - 💃 Go Coogs !
-- 🌐 Check out my work at https://sandhyaammasi.github.io/portfolio/ !
+- 🌐 Check out my work at https://sandhyaammasi.github.io/portfolio/ 
