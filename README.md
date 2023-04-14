@@ -2,7 +2,7 @@
 
 - 😄 About me : Constant learner
 - 🌱 I’m an graduate student at University of Houston 
-- 🔭 I’m currently building my SW dev portfolio and #LeetCodeEveryday
+- 🔭 I’m currently working as an RA at Nurminen Lab (UH college of optometry)
 - 👯 I’m looking to collaborate on ML/AI (data science) projects
 - 💬 Ask me about SW dev, ML ,2D & 3D Game Engine
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/sandhyaammasi/
